@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="5" total="13" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="149" started-at="2019-10-07T18:01:43 IST" finished-at="2019-10-07T18:01:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="149" started-at="2019-10-07T18:01:43 IST" finished-at="2019-10-07T18:01:43 IST">
+      <class name="com.scp.java.business.logic.XFunTest">
+        <test-method status="PASS" signature="m1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.java.business.logic.XFunTest@5f9d02cb]" name="m1" duration-ms="16" started-at="2019-10-07T18:01:43 IST" data-provider="logindata" finished-at="2019-10-07T18:01:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Username cannot be Empty...!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.java.business.logic.XFunTest@5f9d02cb]" name="m1" duration-ms="2" started-at="2019-10-07T18:01:43 IST" data-provider="logindata" finished-at="2019-10-07T18:01:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid Credetials..!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.java.business.logic.XFunTest@5f9d02cb]" name="m1" duration-ms="2" started-at="2019-10-07T18:01:43 IST" data-provider="logindata" finished-at="2019-10-07T18:01:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ADMIN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid Credetials..!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.java.business.logic.XFunTest@5f9d02cb]" name="m1" duration-ms="1" started-at="2019-10-07T18:01:43 IST" data-provider="logindata" finished-at="2019-10-07T18:01:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ad]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid Credetials..!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.java.business.logic.XFunTest@5f9d02cb]" name="m1" duration-ms="2" started-at="2019-10-07T18:01:43 IST" data-provider="logindata" finished-at="2019-10-07T18:01:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid Credetials..!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.java.business.logic.XFunTest@5f9d02cb]" name="m1" duration-ms="2" started-at="2019-10-07T18:01:43 IST" data-provider="logindata" finished-at="2019-10-07T18:01:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Username cannot be Empty...!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.java.business.logic.XFunTest@5f9d02cb]" name="m1" duration-ms="2" started-at="2019-10-07T18:01:43 IST" data-provider="logindata" finished-at="2019-10-07T18:01:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password cannot be Empty...!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.scp.java.business.logic.XFunTest@5f9d02cb]" name="m1" duration-ms="1" started-at="2019-10-07T18:01:43 IST" data-provider="logindata" finished-at="2019-10-07T18:01:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Login Successful..!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- com.scp.java.business.logic.XFunTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
