@@ -6,12 +6,12 @@
 	<artifactId>TestNgProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<repositories>
-			<repository>
-				<id>jcenter</id>
-				<name>bintray</name>
-				<url>http://jcenter.bintray.com</url>
-			</repository>
-		</repositories>
+		<repository>
+			<id>jcenter</id>
+			<name>bintray</name>
+			<url>http://jcenter.bintray.com</url>
+		</repository>
+	</repositories>
 
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.jfree/jfreechart -->
@@ -20,14 +20,14 @@
 			<artifactId>jfreechart</artifactId>
 			<version>1.0.14</version>
 		</dependency>
-	
+
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
-<dependency>
-    <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
-    <version>6.8.3</version>
-    <scope>test</scope>
-</dependency>
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>6.8.3</version>
+			<scope>test</scope>
+		</dependency>
 
 	</dependencies>
 	<build>
